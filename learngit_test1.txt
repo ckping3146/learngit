@@ -7,3 +7,6 @@ change 19:59
 
 insert 20:03
 over
+Git has a mutable index called stage.
+
+
