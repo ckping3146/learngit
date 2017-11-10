@@ -1,4 +1,4 @@
 Creating a new branch is very quick and simple!
 FIX BUG 101
 test --no-ff
-
+test stash
